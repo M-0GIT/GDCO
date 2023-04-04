@@ -1,4 +1,4 @@
-        #A quiz to help study general DC info. I will be adding questions slowly with help from chat GPT. 
+        #A quiz to help study general info. I will have help from chat GPT. 
 
 
         #Week 1
